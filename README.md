@@ -35,3 +35,4 @@ Esercitazioni pratiche
 - WhatsApp Dataset for Cyberbullying Detection: [https://github.com/dhfbk/WhatsApp-Dataset](https://github.com/dhfbk/WhatsApp-Dataset)
 - Irony and Tweets: [https://github.com/IronyAndTweets/French-Italian-and-English-Corpora](https://github.com/IronyAndTweets/French-Italian-and-English-Corpora)
 - IronITA 2018, Irony Detection in Italian Tweets: [http://www.di.unito.it/~tutreeb/ironita-evalita18/data.html](http://www.di.unito.it/~tutreeb/ironita-evalita18/data.html)
+- Trip-MAML, Italian and Spanish annotated reviews: [http://sentiwordnet.isti.cnr.it/trip-maml/tripmaml_ites.zip](http://sentiwordnet.isti.cnr.it/trip-maml/tripmaml_ites.zip)
