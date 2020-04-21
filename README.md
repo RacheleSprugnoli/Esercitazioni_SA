@@ -14,7 +14,7 @@ Esercitazioni pratiche
 - Sentiment Analysis basata sul lessico. Esercitazione con Python.
 - Sentiment Analysis con sistemi supervisionati. Esercitazione con demo online e API.
 
-### Lessici di polarità per l'italiano
+### Italian Affective Lexicons
 - Lessico del progetto OpeNER:[https://github.com/opener-project/VU-sentiment-lexicon/tree/master/VUSentimentLexicon/IT-lexicon](https://github.com/opener-project/VU-sentiment-lexicon/tree/master/VUSentimentLexicon/IT-lexicon) 
 - Sentix: [http://valeriobasile.github.io/twita/sentix.gz](http://valeriobasile.github.io/twita/sentix.gz)
 - Morphologically-inflected Affective Lexicon (MAL): [https://github.com/valeriobasile/sentixR/blob/master/sentix/inst/extdata/MAL.tsv](https://github.com/valeriobasile/sentixR/blob/master/sentix/inst/extdata/MAL.tsv)
@@ -24,3 +24,14 @@ Esercitazioni pratiche
 - NRC-VAD-Lexicon: [https://saifmohammad.com/WebPages/nrc-vad.html](https://saifmohammad.com/WebPages/nrc-vad.html)
 - Italian EMotive lexicon (ItEM): [https://github.com/Unipisa/ItEM](https://github.com/Unipisa/ItEM)
 - DepecheMood v2.0: [https://github.com/marcoguerini/DepecheMood/releases/tag/v2.0](https://github.com/marcoguerini/DepecheMood/releases/tag/v2.0)
+
+### Italian Annotated Dataset for Sentiment Analysis and related tasks
+- Sentipolc 2016: [http://www.di.unito.it/~tutreeb/sentipolc-evalita16/data.html](http://www.di.unito.it/~tutreeb/sentipolc-evalita16/data.html)
+- ABSITA 2016, Aspect-based Sentiment Analysis: [http://www.di.unito.it/~tutreeb/sentipolc-evalita16/data.html](http://www.di.unito.it/~tutreeb/sentipolc-evalita16/data.html)
+- Smartphone reviews annotated for the task of aspect-based Sentiment Analysis: [https://github.com/nicolaCirillo/italian-sentiment-analysis](https://github.com/nicolaCirillo/italian-sentiment-analysis)
+- HaSpeeDe 2018, Hate Speech Detection: [http://www.di.unito.it/~tutreeb/haspeede-evalita18/data.html](http://www.di.unito.it/~tutreeb/haspeede-evalita18/data.html)
+- Italian Twitter Corpus of Hate Speech: [https://github.com/msang/hate-speech-corpus](https://github.com/msang/hate-speech-corpus)
+- Happy Parents: [https://github.com/mirkolai/Happy-Parents](https://github.com/mirkolai/Happy-Parents)
+- WhatsApp Dataset for Cyberbullying Detection: [https://github.com/dhfbk/WhatsApp-Dataset](https://github.com/dhfbk/WhatsApp-Dataset)
+- Irony and Tweets: [https://github.com/IronyAndTweets/French-Italian-and-English-Corpora](https://github.com/IronyAndTweets/French-Italian-and-English-Corpora)
+- IronITA 2018, Irony Detection in Italian Tweets: [http://www.di.unito.it/~tutreeb/ironita-evalita18/data.html](http://www.di.unito.it/~tutreeb/ironita-evalita18/data.html)
