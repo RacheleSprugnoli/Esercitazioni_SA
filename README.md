@@ -14,6 +14,8 @@ Esercitazioni pratiche
 - Sentiment Analysis basata sul lessico. Esercitazione con Python.
 - Sentiment Analysis con sistemi supervisionati. Esercitazione con demo online e API.
 
+# Materiali disponibili per l'italiano
+
 ### Italian Affective Lexicons
 - Lessico del progetto OpeNER:[https://github.com/opener-project/VU-sentiment-lexicon/tree/master/VUSentimentLexicon/IT-lexicon](https://github.com/opener-project/VU-sentiment-lexicon/tree/master/VUSentimentLexicon/IT-lexicon) 
 - Sentix: [http://valeriobasile.github.io/twita/sentix.gz](http://valeriobasile.github.io/twita/sentix.gz)
