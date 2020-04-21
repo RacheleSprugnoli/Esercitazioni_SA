@@ -14,11 +14,13 @@ Esercitazioni pratiche
 - Sentiment Analysis basata sul lessico. Esercitazione con Python.
 - Sentiment Analysis con sistemi supervisionati. Esercitazione con demo online e API.
 
-## Lessici di polarità/sentiment/emozioni per l'italiano
+### Lessici di polarità per l'italiano
 - Lessico del progetto OpeNER:[https://github.com/opener-project/VU-sentiment-lexicon/tree/master/VUSentimentLexicon/IT-lexicon](https://github.com/opener-project/VU-sentiment-lexicon/tree/master/VUSentimentLexicon/IT-lexicon) 
 - Sentix: [http://valeriobasile.github.io/twita/sentix.gz](http://valeriobasile.github.io/twita/sentix.gz)
+- Morphologically-inflected Affective Lexicon (MAL): [https://github.com/valeriobasile/sentixR/blob/master/sentix/inst/extdata/MAL.tsv](https://github.com/valeriobasile/sentixR/blob/master/sentix/inst/extdata/MAL.tsv)
 - Distributional Polarity Lexicon: [http://sag.art.uniroma2.it/demo-software/distributional-polarity-lexicon/](http://sag.art.uniroma2.it/demo-software/distributional-polarity-lexicon/)
 - SenticNet: [https://sentic.net/](https://sentic.net/)
 - NRC-Emotion-Lexicon: [https://saifmohammad.com/WebPages/NRC-Emotion-Lexicon.htm](https://saifmohammad.com/WebPages/NRC-Emotion-Lexicon.htm)
 - NRC-VAD-Lexicon: [https://saifmohammad.com/WebPages/nrc-vad.html](https://saifmohammad.com/WebPages/nrc-vad.html)
+- Italian EMotive lexicon (ItEM): [https://github.com/Unipisa/ItEM](https://github.com/Unipisa/ItEM)
 - DepecheMood v2.0: [https://github.com/marcoguerini/DepecheMood/releases/tag/v2.0](https://github.com/marcoguerini/DepecheMood/releases/tag/v2.0)
