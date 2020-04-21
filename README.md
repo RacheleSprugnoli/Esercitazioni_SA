@@ -5,7 +5,7 @@ Le esercitazioni sono pensate per un pubblico senza competenze pregresse nel cam
 
 ## Programma
 Lezioni teoriche
-- Introduzione al trattamento automatico del testo
+- Introduzione al Trattamento Automatico del Linguaggio
 - Introduzione alla Sentiment Analysis
 
 Esercitazioni pratiche
