@@ -1,7 +1,7 @@
-# Esercitazioni_Sentiment_Analysis
+# Esercitazioni di Sentiment Analysis
 
 Questo repository contiene i materiali didattici relativi al modulo "Esercitazioni di Sentiment Analysis" organizzato nell'ambito della Laurea Magistrale in Comunicazione per l'impresa, i media e le organizzazioni complesse (CIMO) presso l'Università Cattolica del Sacro Cuore di Milano. 
-Le esercitazioni sono pensate per un pubblico senza competenze pregresse nel campo del Trattamento Automatico del Linguaggio.
+Le esercitazioni sono pensate per un pubblico senza competenze pregresse nel campo del Trattamento Automatico del Linguaggio né conoscenze di programmazione.
 
 ## Programma
 Lezioni teoriche
