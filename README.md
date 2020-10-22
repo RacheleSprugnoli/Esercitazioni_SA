@@ -29,7 +29,7 @@ Esercitazioni pratiche
 
 ### Italian Annotated Dataset for Sentiment Analysis and related tasks
 - Sentipolc 2016: [http://www.di.unito.it/~tutreeb/sentipolc-evalita16/data.html](http://www.di.unito.it/~tutreeb/sentipolc-evalita16/data.html)
-- ABSITA 2016, Aspect-based Sentiment Analysis: [http://www.di.unito.it/~tutreeb/sentipolc-evalita16/data.html](http://www.di.unito.it/~tutreeb/sentipolc-evalita16/data.html)
+- ABSITA 2018, Aspect-based Sentiment Analysis: [http://sag.art.uniroma2.it/absita/data/](http://sag.art.uniroma2.it/absita/data/)
 - Smartphone reviews annotated for the task of aspect-based Sentiment Analysis: [https://github.com/nicolaCirillo/italian-sentiment-analysis](https://github.com/nicolaCirillo/italian-sentiment-analysis)
 - HaSpeeDe 2018, Hate Speech Detection: [http://www.di.unito.it/~tutreeb/haspeede-evalita18/data.html](http://www.di.unito.it/~tutreeb/haspeede-evalita18/data.html)
 - Italian Twitter Corpus of Hate Speech: [https://github.com/msang/hate-speech-corpus](https://github.com/msang/hate-speech-corpus)
