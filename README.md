@@ -39,3 +39,4 @@ Esercitazioni pratiche
 - IronITA 2018, Irony Detection in Italian Tweets: [http://www.di.unito.it/~tutreeb/ironita-evalita18/data.html](http://www.di.unito.it/~tutreeb/ironita-evalita18/data.html)
 - Trip-MAML, Italian and Spanish annotated reviews: [http://sentiwordnet.isti.cnr.it/trip-maml/tripmaml_ites.zip](http://sentiwordnet.isti.cnr.it/trip-maml/tripmaml_ites.zip)
 - SentiML, [http://corpus.leeds.ac.uk/marilena/SentiML/](http://corpus.leeds.ac.uk/marilena/SentiML/)
+- MultiEmotions-It, [https://github.com/RacheleSprugnoli/Esercitazioni_SA/tree/master/dataset](https://github.com/RacheleSprugnoli/Esercitazioni_SA/tree/master/dataset)
