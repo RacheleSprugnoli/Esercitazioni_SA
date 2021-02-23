@@ -10,4 +10,5 @@ Particular attention is devoted to the annotation of emotions for which we adopt
 | # WORDS | 17,762 | 19,603 | 20,844 |
 
 **How to cite**
-Sprugnoli, R. (2020). MultiEmotions-it: A new dataset for opinion polarity and emotion analysis for Italian. In 7th Italian Conference on Computational Linguistics, CLiC-it 2020 (pp. 402-408). Accademia University Press.
+
+Sprugnoli, R. (2020). MultiEmotions-it: A new dataset for opinion polarity and emotion analysis for Italian. In 7th Italian Conference on Computational Linguistics, CLiC-it 2020 (pp. 402-408). Accademia University Press. ([PDF](http://ceur-ws.org/Vol-2769/paper_08.pdf))
