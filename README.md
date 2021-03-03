@@ -40,3 +40,4 @@ Esercitazioni pratiche
 - Trip-MAML, Italian and Spanish annotated reviews: [http://sentiwordnet.isti.cnr.it/trip-maml/tripmaml_ites.zip](http://sentiwordnet.isti.cnr.it/trip-maml/tripmaml_ites.zip)
 - SentiML, [http://corpus.leeds.ac.uk/marilena/SentiML/](http://corpus.leeds.ac.uk/marilena/SentiML/)
 - MultiEmotions-It, [https://github.com/RacheleSprugnoli/Esercitazioni_SA/tree/master/dataset](https://github.com/RacheleSprugnoli/Esercitazioni_SA/tree/master/dataset)
+- AriEmozione 1.0, [https://zenodo.org/record/4022318#.YD9oNFVKiUk](https://zenodo.org/record/4022318#.YD9oNFVKiUk)
