@@ -12,3 +12,6 @@ Particular attention is devoted to the annotation of emotions for which we adopt
 **How to cite**
 
 Sprugnoli, R. (2020). MultiEmotions-it: A new dataset for opinion polarity and emotion analysis for Italian. In 7th Italian Conference on Computational Linguistics, CLiC-it 2020 (pp. 402-408). Accademia University Press. ([PDF](http://ceur-ws.org/Vol-2769/paper_08.pdf) - [SLIDES](https://www.researchgate.net/publication/349732636_MultiEmotions-It_a_New_Dataset_for_Opinion_Polarity_and_Emotion_Analysis_for_Italian)).
+
+**License**
+*MultiEmotions-It* is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike ([CC BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode)) 4.0 International.
