@@ -9,10 +9,11 @@ Lezioni teoriche
 - Introduzione alla Sentiment Analysis
 
 Esercitazioni pratiche
-- Come creare nuovi set di dati per la Sentiment Analysis. Esercitazione usando 2 metodi: a) script in Python per lo scraping di Twitter b) estensione del browser Chrome per fare scraping di siti/pagine web
-- L'annotazione manuale del sentiment. Esercitazione su problematiche teoriche e pratiche, calcolo dell'accordo tra annotatori.
-- Sentiment Analysis basata sul lessico. Esercitazione con Python.
-- Sentiment Analysis con sistemi supervisionati. Esercitazione con demo online e API.
+- Come creare nuovi set di dati per la Sentiment Analysis. Esercitazione usando 2 metodi: a) script in Python per lo scraping di Twitter b) estensione per browser WebScraper 
+- Sentiment Analysis basata sul lessico. Esercitazione con script in Python.
+- Sentiment Analysis con sistemi supervisionati. Esercitazione con demo online.
+- Panoramica di progetti di Sentiment Analysis
+- Approfondimento sulla valutazione
 
 # Materiali disponibili per l'italiano
 
