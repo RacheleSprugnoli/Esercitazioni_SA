@@ -42,3 +42,6 @@ Esercitazioni pratiche
 - SentiML, [http://corpus.leeds.ac.uk/marilena/SentiML/](http://corpus.leeds.ac.uk/marilena/SentiML/)
 - MultiEmotions-It, [https://github.com/RacheleSprugnoli/Esercitazioni_SA/tree/master/dataset](https://github.com/RacheleSprugnoli/Esercitazioni_SA/tree/master/dataset)
 - AriEmozione 1.0, [https://zenodo.org/record/4022318#.YD9oNFVKiUk](https://zenodo.org/record/4022318#.YD9oNFVKiUk)
+
+### Automatic Models for Italian
+- FEEL-IT: [https://github.com/MilaNLProc/feel-it](https://github.com/MilaNLProc/feel-it)
