@@ -42,6 +42,8 @@ Esercitazioni pratiche
 - SentiML, [http://corpus.leeds.ac.uk/marilena/SentiML/](http://corpus.leeds.ac.uk/marilena/SentiML/)
 - MultiEmotions-It, [https://github.com/RacheleSprugnoli/Esercitazioni_SA/tree/master/dataset](https://github.com/RacheleSprugnoli/Esercitazioni_SA/tree/master/dataset)
 - AriEmozione 1.0, [https://zenodo.org/record/4022318#.YD9oNFVKiUk](https://zenodo.org/record/4022318#.YD9oNFVKiUk)
+- EMit (Emotions in Italian) at EVALITA 2023, [http://www.di.unito.it/~tutreeb/emit23/data.html](http://www.di.unito.it/~tutreeb/emit23/data.html)
 
 ### Automatic Models for Italian
 - FEEL-IT: [https://github.com/MilaNLProc/feel-it](https://github.com/MilaNLProc/feel-it)
+- XLM-EMO: Multilingual Emotion Prediction in Social Media Text, [https://github.com/MilaNLProc/xlm-emo](https://github.com/MilaNLProc/xlm-emo)
